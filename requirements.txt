@@ -1,0 +1,6 @@
+faster-whisper 
+gtts 
+transformers 
+llama-cpp-python 
+sounddevice 
+scipy
