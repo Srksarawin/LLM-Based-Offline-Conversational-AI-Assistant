@@ -17,21 +17,6 @@ In faster-whisper download all the files and put it in separate folder.
 
 THE PROJECT STRUCTURE
 
-AI Assistant
-|
-|--main.py
-|--requirements.txt
-|--models (folder)
-  | |
-  |  |--faster-whisper (folder create)
-  |     |
-  |     |--config
-  |     |--vocabulary
-  |     |--tokenizer
-  |     |--model.bin
-  |     |--gitattributes
-  |     |--README.md
-  |
-  |---Llama-3.2-1B-Instruct-Q4_K_L.gguf (file)
+![image](image.png)
   
   
