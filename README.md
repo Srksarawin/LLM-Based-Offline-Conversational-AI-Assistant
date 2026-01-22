@@ -17,6 +17,6 @@ In faster-whisper download all the files and put it in separate folder.
 
 THE PROJECT STRUCTURE
 
-![image](image.png)
+![image](images/image.png)
   
   
